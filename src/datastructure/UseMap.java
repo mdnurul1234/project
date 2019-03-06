@@ -1,5 +1,9 @@
 package datastructure;
 
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Map.Entry;
 public class UseMap {
 
 	public static void main(String[] args) {
@@ -11,6 +15,17 @@ public class UseMap {
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 		 */
 
+		Map<String,String>map=new LinkedHashMap<String,String>();
+		map.put("USA", "New York");
+		map.put("UK", "London");
+		map.put("Bangladesh", "Dhaka");
+		map.put("Canada", "Montrel");
+		//System.out.println(maplist.get("USA"));
+		//System.out.println(maplist.get("Canada"));
+
+		for(Entry<String, String> country:map.entrySet()) {
+			System.out.println(country.getKey()+ " "+ country.getValue());
+		}
 	}
 
 }

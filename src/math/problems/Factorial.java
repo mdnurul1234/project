@@ -11,6 +11,12 @@ public class Factorial {
          * Write a java program to find Factorial of a given number using Recursion as well as Iteration.
          *
          */
+  int fact=1;
+   int number=5;
+  for (int i=1; i<=number; i++){
+      fact=fact*i;
+  }
+  System.out.println("Factorial of number:" +fact);
 
     }
 }

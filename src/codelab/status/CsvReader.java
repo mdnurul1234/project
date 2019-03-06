@@ -63,6 +63,14 @@ public class CsvReader {
             }
         }
 
+        System.out.println(roster.size());
+        int sum = 0;
+        for ( Trainee tr : roster){
+            sum=sum +tr.getNumberOfExercisesSolved();
+        }
+        System.out.println(sum);
+        System.out.println(sum/roster.size());
+
     }
 
 }

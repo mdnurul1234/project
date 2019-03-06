@@ -14,7 +14,15 @@ public class FortuneEmployee {
 	 *
 	 **/
 	public static void main(String[] args) {
-		
+
+		EmployeeInfo Einfo1 = new EmployeeInfo();
+		EmployeeInfo Einfo2 = new EmployeeInfo(777);
+		Einfo2.Parson();
+		Einfo2.assignDepartment();
+		Einfo2.calculateSalary();
+		Einfo2.calculateEmployeeBonus(2);
+		Einfo2.calculateEmployeePension();
+		EmployeeInfo Einfo3 = new EmployeeInfo("Nurul Islam",107);
 
 
 	}

@@ -1,0 +1,119 @@
+Please answer the below core-java Questions:
+
+What is programing language?
+A.A programming language is a formal language, which comprises a set of instructions used to
+ produce various kinds of output.
+
+
+
+
+What jdk contains or composed of and define each components?
+A.The Java Development Kit (JDK) provides the foundation upon which all ... The
+ JDK is a software package that contains a variety of tools and utilities that make it ... about the methods,
+ properties and attributes of a given compiled component.
+
+What is IDE?
+A.An integrated development environment.
+What are the IDEs available in the market to support java?
+
+A.NetBeans. NetBeans is an open source Integrated Development Environment written in Java. ...
+  Eclipse. Eclipse is another free Java IDE for developers and programmers. ...
+  IntelliJ IDEA Community Edition. ...
+  Android Studio. ...
+  Enide Studio 2014. ...
+  BlueJ. ...
+  jEdit. ...
+  jGRASP
+Explain the entire java life cycle.
+A.Life cycle of a java program. ... Life cycle of
+  a java program tells us what happens right from the point
+  when we type source code in a text editor to the point that
+  source code is converted into machine code (0&#39;s and 1&#39;s).
+  There are three main stages in the life cycle of
+  a java program. Source code&gt;&gt;compiler&gt;&gt;JVM.
+what is class?
+A.A class is a blueprint of an object.
+What is object?
+A.An object is an instance of a class.
+What is the entry point of an application?
+A.An application entry point identifies a resource that is an access point to an application.
+  Application entry points are used to control users' access to different versions of an application that is deployed on a platform.
+Why main is static?
+A.This is neccesary because main() is called by the JVM before any objects are made.
+  Since it is static it can be directly invoked via the class
+Which class is the superclass of all classes?
+A.java.lang.Object class is superclass of all classes. Class Object is the root of the class hierarchy.
+  Every class has Object as a superclass. All objects, including arrays,
+  implement the methods of this class.
+What is difference between path and classpath variables?
+A.1).Path is an environment variable which is used by the operating system to find the executables.
+   Classpath is an environment variable which is used by the Java compiler to find the path, of classes.ie in J2EE we give the path of jar files.
+  2).PATH is nothing but setting up an environment for operating system.
+What is the difference between an Interface and Abstract class?
+A. Main difference is methods of a Java interface are implicitly abstract and cannot have implementations.
+   A Java abstract class can have instance methods that implements a default behavior. Variables declared in a Java interface is by default final.
+   An abstract class may contain non-final variables.
+Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+what is Access Specifier?
+A.Access modifiers (or access specifiers) are keywords in object-oriented languages that set the
+  accessibility of classes, methods, and other members
+What is OOP ? Define each feature of java OOP.
+A.Java's Object Oriented Programming. They are an abstraction, encapsulation, inheritance, and polymorphism.
+What is Java Package and which package is imported by default?
+A.If you omit the package statement while writing the class definition, the class name is placed into the default package, which has no name.
+  Java compiler automatically imports this package. Second, the java.lang package is imported implicitly.
+
+What is API? Name list of API that you have used so far.
+Does java support multiple inheritance, explain why or why not?
+What is method overloading and when it happens?
+Explain exceptions in java and how to handle it.
+What is static keyword in java? How it has been used in variables and methods ?
+What is final and how it has been used variables and methods?
+What is final, finally and finalize?
+What is a constructor ?
+Can we have multiple constructors in a class?
+If we don't have a constructor declared, what is called during the object creation?
+What is "this" keyword in java ?
+What is "super" keyword in java? How many possible way can you use?
+What is JVM stand for ?
+Is JVM platform independent?
+What version of java are you using?
+What is JAR stand for ?
+What is the difference between JDK and JVM?
+What is the difference between JVM and JRE?
+What is compile time and run time?
+What is heap?
+How java manage it's memory?
+What is the difference between String, StringBuffer and StringBuilder?
+What is Singleton class?
+What is Serialization and Deserialization?
+when to use transient variable in java?
+Difference between while and do..while loop?
+What is Enum?
+What is Iterator?
+Which one will take more memory, an int or Integer?
+Why is String Immutable in Java?
+What is constructor chaining in Java?
+The difference between Serial and Parallel Garbage Collector?
+What is JIT stands for?
+Explain Java Heap space and Garbage collection?
+Can you guarantee the garbage collection process?
+What is the difference between stack and heap in Java?
+What is reflection in java and why is it useful?
+what is multithreading in java?
+What is the use of synchronization in Java?
+What is Framework?
+What are the testing Framework available in java?
+Difference between jUnit and testNG?
+What are the dependencies for this project?
+what is dependency injection in java?
+What is static binding and dynamic binding?
+
+
+
+
+
+
+
+
+
