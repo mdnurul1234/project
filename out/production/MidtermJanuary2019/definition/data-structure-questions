@@ -43,7 +43,7 @@ A.FIFO is the acronym for First-In, First-Out
 what is the order of complexity?
 A.Generally, an algorithm has an asymptotic computational complexity. Assuming the input is of size N,
   we can say that the algorithm will finish at O(N), O(N^2), O(N^3), O(N*log(N)) etc.
-  hat is the best case to search an element from an array?
+hat is the best case to search an element from an array?
 A.Given an array of n distinct integers and an element x. Search the element x in
   the array using minimum number of comparisons.
 
@@ -75,11 +75,23 @@ A.ArrayIndexOutOfBoundsException is thrown to indicate that we are trying to acc
 What are the different ways of copying an array into another array?
 A.
 What is difference between an array and a linked list?
+A. Difference between Array and Linked List. ... Basically, an array is a set of similar data objects stored in sequential memory locations under a common heading or a variable name. While a linked list is a data structure which contains a
+  sequence of the elements where each element is linked to its next element.
 What is DFS and BFS?
+A.The breadth first search (BFS) and the depth first search (DFS) are the two algorithms used
+  for traversing and searching a node in a graph.
 What is Recursion?
+A.Recursion is a basic programming technique you can use in Java, in which a method calls itself to solve some problem.
+  A method that uses this technique is recursive.
 What are linear and non linear data Structures?
+A.In the linear data structure, the data is organized in a linear order in which elements are linked one
+  after the other. ... Examples of the linear data structure are array, queue, stack, linked list, etc.
 What is Big-(O)-notation?
+A.Big O notation is used in Computer Science to describe the performance or
+  complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time
+  required or the space used (e.g. in memory or on disk) by an algorithm.
 Outlined different kind of sorting algorithm with time complexity?
+
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
   a)In terms of Accessing element.
