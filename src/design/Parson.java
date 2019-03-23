@@ -10,4 +10,5 @@ public abstract class Parson {
     public abstract void Parson();
 
     public abstract void AllDepart();
+
 }
