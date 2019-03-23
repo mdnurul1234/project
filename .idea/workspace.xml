@@ -61,7 +61,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/design/EmployeeInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="2139">
               <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
             </state>
           </provider>
@@ -229,7 +229,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553383999566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553385150618" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/driver/mysql-connector-java-8.0.15.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -348,7 +348,7 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.31316188" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.38625205" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.512275" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Messages" order="2" visible="true" weight="0.18003273" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -750,7 +750,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design/EmployeeInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="2139">
           <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
         </state>
       </provider>
